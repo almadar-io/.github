@@ -172,7 +172,4 @@ flowchart TB
     Clients --> APIGateway
     APIGateway --> OrbitalUnit
 
-    style A fill:#f9f,stroke:#333,stroke-width:4px
-    style J1 fill:#9f9,stroke:#333,stroke-width:4px
-    style J3 fill:#9f9,stroke:#333,stroke-width:4px
 ```
