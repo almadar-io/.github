@@ -8,5 +8,5 @@ Contribution Guidelines
 We welcome contributions from the community! Whether you're fixing bugs, adding new features, or improving documentation, your help is greatly appreciated. Please check our contributing guidelines for more information on how to get involved.
 
 👩‍💻 Useful Resources
-Documentation: For detailed information, including API references, guides, and tutorials, visit our official documentation.
-Support: If you have any questions or need support, feel free to reach out to us at support@example.com.
+Documentation: coming soon
+Support: If you have any questions or need support, feel free to reach out to us at oalghanmi@markab.io
