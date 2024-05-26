@@ -8,5 +8,6 @@ Contribution Guidelines
 We welcome contributions from the community! Whether you're fixing bugs, adding new features, or improving documentation, your help is greatly appreciated. Please check our contributing guidelines for more information on how to get involved.
 
 👩‍💻 Useful Resources
-Documentation: coming soon
+
+Documentation: coming soon.
 Support: If you have any questions or need support, feel free to reach out to us at oalghanmi@markab.io
